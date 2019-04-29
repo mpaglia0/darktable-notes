@@ -1,0 +1,38 @@
+LIGHTTABLE
+==========
+Import - /src/libs/import.c
+Collect Images - /src/libs/collect.c
+Recently Used Collections - /src/libs/recentcollect.c
+Image Information - /src/libs/
+History Stack - /src/libs/copy_history.c
+Export - /src/libs/export.c
+Geotagging - /src/libs/geotagging.c
+Selected Images - /src/libs/image.c
+Metadata Editor - /src/libs/metadata.c
+Image Information - /src/libs/metadata_view.c
+Select - /src/libs/select.c
+Styles - /src/libs/styles.c
+Tagging - /src/libs/tagging.c
+
+DARKROOM
+========
+Snapshots - /src/libs/snapshots.c
+History Stack - /src/libs/history.c
+Color Picker - /src/libs/colorpicker.c
+Tagging - /src/libs/tagging.c
+Masks Manager - /srl/libs/masks.c
+Histogram - /src/libs/histogram.c
+Navigation - /src/libs/navigation.c
+
+MAP
+===
+Find Location - /src/libs/location.c
+Map Settings - /src/libs/map_settings.c
+
+PRINT
+=====
+Print Settings - src/libs/print_settings.c
+
+TETHERING
+=========
+Session - /src/libs/session.c
