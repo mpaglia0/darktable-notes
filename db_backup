@@ -1,0 +1,24 @@
+# Thanks to Andreas Schneider
+cat bin/darktable
+#!/bin/bash
+
+dt_db_files="data.db library.db"
+
+dt_config_dir="$HOME/.config/darktable"
+dt_backup_dir="$dt_config_dir/backup"
+
+today=$(date +"%Y-%m-%d")
+
+_backupdir="$dt_backup_dir/$today"
+
+if [ ! -d "$_backupdir" ]; then
+    mkdir -p $_backupdir
+
+    for f in $dt_db_files; do
+        cp "$dt_config_dir/$f" "$_backupdir"
+    done
+
+    find $dt_backup_dir -maxdepth 1 -mtime +30 -type d | xargs rm -rf
+fi
+
+/usr/bin/darktable $@
