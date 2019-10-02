@@ -15,3 +15,21 @@ midtones - mezzi toni
 offset = compensazione, spostamento
 watermark = filigrana
 timeline = linea temporale
+
+Convenzioni per le scorciatoie da tastiera e mouse
+==================================================
+(concordate con il team della documentazione di dt)
+
+Il nome dei tasti deve iniziare con la lettera maiuscola.
+Occorre utilizzare il segno + (per indicare che si tratta di una combinazione di tasti) senza spazi
+Il tasto Shift deve essere tradotto in Maiusc
+
+Ctrl+M
+Alt+V
+Maiusc+T
+
+Stesse convenzioni per il mouse con una variante per quanto riguarda il tasto destro e la rotella)
+
+Ctrl+click
+Ctrl+(click destro)
+Ctrl+(rotella mouse)
