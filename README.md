@@ -1,2 +1,2 @@
 # darktable_notes
-Scripts and notes about darktable
+Misc scripts and notes about darktable
