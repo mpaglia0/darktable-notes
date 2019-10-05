@@ -15,6 +15,7 @@ midtones - mezzi toni
 offset = compensazione, spostamento
 watermark = filigrana
 timeline = linea temporale
+pixelpipe = flusso di sviluppo (pixelpipe)
 
 Convenzioni per le scorciatoie da tastiera e mouse
 ==================================================
