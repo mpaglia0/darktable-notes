@@ -6,6 +6,7 @@ crop factor = fattore di taglio / fattore di ritaglio
 cursor - selettore scorrevole (per comandi)
 cursor - cursore (per mouse)
 edge = margine
+feather = 
 flip = rifletti
 highlights - alte luci
 lightness = luminosità
@@ -16,6 +17,7 @@ offset = compensazione, spostamento
 watermark = filigrana
 timeline = linea temporale
 pixelpipe = flusso di sviluppo (pixelpipe)
+zoom = ingrandire/ingrandimento
 
 Convenzioni per le scorciatoie da tastiera e mouse
 ==================================================
