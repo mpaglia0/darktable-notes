@@ -16,8 +16,9 @@ look up table = tabella di ricerca
 midtones - mezzi toni
 offset = compensazione, spostamento
 watermark = filigrana
+threshold = soglia
 timeline = linea temporale
-pixelpipe = flusso di sviluppo (pixelpipe)
+watermark = filigrana
 zoom = ingrandire/ingrandimento
 
 Convenzioni per le scorciatoie da tastiera e mouse
