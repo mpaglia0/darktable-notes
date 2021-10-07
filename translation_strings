@@ -4,6 +4,7 @@ backlight = controluce
 border = bordo
 chroma = crominanza
 collection = raccolta
+color picker = selettore colore
 crop factor = fattore di taglio / fattore di ritaglio
 cursor = selettore scorrevole (per comandi)
 cursor = cursore (per mouse)
