@@ -2,6 +2,8 @@ adjust = regolazione
 aspect ratio = proporzioni
 backlight = controluce
 border = bordo
+brightness = brillanza
+chroma = cromaticità
 collection = raccolta
 crop factor = fattore di taglio / fattore di ritaglio
 cursor - selettore scorrevole (per comandi)
@@ -10,12 +12,13 @@ edge = margine
 feather = sfumatura
 flip = rifletti
 highlights - alte luci
-lightness = luminosità
+hue = tonalità
+lightness = chiarezza
 liquify = fluidifica
 look up table = tabella di ricerca
 midtones - mezzi toni
 offset = compensazione, spostamento
-watermark = filigrana
+saturation = saturazione
 threshold = soglia
 timeline = linea temporale
 watermark = filigrana
