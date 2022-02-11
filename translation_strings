@@ -3,6 +3,7 @@ aspect ratio = proporzioni
 backlight = controluce
 border = bordo
 brightness = brillanza
+brilliance = brillantezza
 chroma = cromaticità
 collection = raccolta
 crop factor = fattore di taglio / fattore di ritaglio
@@ -13,9 +14,11 @@ feather = sfumatura
 flip = rifletti
 highlights - alte luci
 hue = tonalità
-lightness = chiarezza
+lightness = tono
 liquify = fluidifica
 look up table = tabella di ricerca
+luma = luma
+luminance = luminanza
 midtones - mezzi toni
 offset = compensazione, spostamento
 saturation = saturazione
