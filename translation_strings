@@ -6,22 +6,25 @@ brightness = brillanza
 brilliance = brillantezza
 chroma = cromaticità
 collection = raccolta
+color picker = selettore colore
 crop factor = fattore di taglio / fattore di ritaglio
-cursor - selettore scorrevole (per comandi)
-cursor - cursore (per mouse)
+cursor = selettore scorrevole (per comandi)
+cursor = cursore (per mouse)
+display-referred = riferito allo schermo
 edge = margine
 feather = sfumatura
 flip = rifletti
 highlights - alte luci
 hue = tonalità
-lightness = tono
+hue = tinta
+lightness = chiarezza
 liquify = fluidifica
 look up table = tabella di ricerca
-luma = luma
 luminance = luminanza
-midtones - mezzi toni
+midtones = mezzi toni
 offset = compensazione, spostamento
-saturation = saturazione
+watermark = filigrana
+scene-referred = riferito alla scena
 threshold = soglia
 timeline = linea temporale
 watermark = filigrana
