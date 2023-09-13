@@ -18,8 +18,8 @@ edge = margine
 feather = sfumatura
 flip = rifletti
 highlights - alte luci
-hue = tonalità
-lightness = tono
+hue = tinta
+lightness = luminosità/tono
 liquify = fluidifica
 look up table = tabella di ricerca
 luminance = luminanza
